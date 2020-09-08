@@ -1,0 +1,19 @@
+﻿  
+h1{
+
+	background:red;
+	font-size:22px;
+}
+body
+{
+margin:0;
+padding:0;
+background:blue;
+background-position:center;
+
+}
+p{
+
+	font-size:22px;
+	background:white;
+}
