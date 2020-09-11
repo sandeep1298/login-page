@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+    <html>
+        <body>
+            <h1>JavaScript Variables</h1>
+         <p id="demo"></p>                      
+<script>
+        /*JavaScript uses the var keyword to declare variables.
+        An equal sign is used to assign values to variables.*/       
+ var x,y,z;        
+                x = 6;
+                y = 5;
+                z = x+y;
+                document.getElementById("demo").innerHTML = z;
+</script>
+
+        </body>
+    </html>

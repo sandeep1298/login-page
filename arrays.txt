@@ -1,0 +1,15 @@
+<!DOCTYPE html>
+<html>
+<body>
+
+    <h2>JavaScript Arrays</h2>
+    <p id="demo"></p>
+
+    <script>
+        //we can access an array element by referring to the index number.
+        var name = ["Swengsolutions"];
+        document.getElementById("demo").innerHTML = name[1];
+    </script>
+
+</body>
+</html>

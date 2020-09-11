@@ -1,0 +1,15 @@
+<!DOCTYPE html>
+<html>
+<body>
+    <h1>JavaScript is Case Sensitive</h1>
+    <p id="demo"></p>
+    <script>
+        //The variables firstName and firstname, are two different variables
+        var lastname, lastName;
+        firstName = "san";
+        firstname = "deep";
+        document.getElementById("demo").innerHTML = firstname;
+    </script>
+
+</body>
+</html>

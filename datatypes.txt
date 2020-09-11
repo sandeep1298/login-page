@@ -1,0 +1,18 @@
+<!DOCTYPE html>
+<html>
+<body>
+
+    <h2>JavaScript Data Types</h2>
+ <p id="demo"></p>
+
+    <script>
+        var x,y,z;        // Now x,y,z is undefined
+        x = 8;            // Now  x is a number
+        y="sandeep"       // Now y is a string
+        z = x+y;     
+
+        document.getElementById("demo").innerHTML = z;
+    </script>
+
+</body>
+</html>
